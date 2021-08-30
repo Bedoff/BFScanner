@@ -21,6 +21,7 @@ $ python3 bfscanner.py
 
 
 some code you can try if you get an error
+-----------------------------------------
 
 $ sysctl -w vm.overcommit_memory=1
 
