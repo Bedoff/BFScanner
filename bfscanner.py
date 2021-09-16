@@ -7,12 +7,8 @@ os.system("sysctl -w vm.overcommit_memory=1")
 os.system ("clear")
 
 class style():          
-    BLACK = '\033[30m'
-    RED = '\033[31m'
     GREEN = '\033[32m'        
-    BLUE = '\033[34m'  
     WHITE = '\033[37m'
-    RESET = '\033[0m'
 
 print(style.GREEN + "")
 
